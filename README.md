@@ -5,4 +5,4 @@
 1. The experimental data in one_classify folder mean all of image pixels is vaild data.
 2. The experimental data in two_classify folder mean some of image pixels is vaild data, which means some samples have no meaning.
 
-The data is open-source in network.
+The data is open-source in network. 
